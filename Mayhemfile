@@ -1,0 +1,5 @@
+project: mp3cat
+target: mp3cat
+cmds:
+  - cmd: /mp3cat @@
+    env: {}
